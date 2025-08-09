@@ -171,12 +171,15 @@ img::-moz-selection {
 
 header.masthead {
   margin-bottom: 50px;
-  background: no-repeat center center;
+  background-image: url('https://images.squarespace-cdn.com/content/v1/5db0b43ad5437e7e86fb6808/d6f7524b-b421-48ae-9235-511ccee91015/Emperor-Justinian.jpg');
+  background-position: center 20%;
+  background-size: cover;
+  background-repeat: no-repeat;
   background-color: #868e96;
   background-attachment: scroll;
   position: relative;
-  background-size: cover;
 }
+
 
 header.masthead .overlay {
   position: absolute;

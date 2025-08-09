@@ -41,9 +41,9 @@ def contact():
     return render_template("contact.html", page_title="Contact")
 
 
-@app.route("/careers")
-def careers():
-    return render_template("careers.html", page_title="Careers")
+@app.route("/legacy")
+def legacy():
+    return render_template("legacy.html", page_title="Legacy")
 
 
 if __name__ == "__main__":
