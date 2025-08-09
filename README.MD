@@ -4,6 +4,10 @@
 
 This project is a historical web application built with Flask, dedicated to the legacy of the Byzantine Empire. It features profiles of emperors, thematic pages, and a structured layout using Bootstrap and Jinja2 templates. The site is designed to be informative, visually engaging, and easy to expand.
 
+### Live Site
+
+- Go to live site - [Byzantine Empire](https://flask-app-prj-26927cc0ca85.herokuapp.com/)
+
 ## 🚀 How to Run
 
 1. **Install dependencies**:
