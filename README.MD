@@ -1,5 +1,7 @@
 # 🏛️ Byzantine Empire — Flask Web Project
 
+![Byzantine Empire](./static/img/homepage.png)
+
 ## 📖 Overview
 
 This project is a historical web application built with Flask, dedicated to the legacy of the Byzantine Empire. It features profiles of emperors, thematic pages, and a structured layout using Bootstrap and Jinja2 templates. The site is designed to be informative, visually engaging, and easy to expand.
