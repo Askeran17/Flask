@@ -6,7 +6,7 @@ This project is a historical web application built with Flask, dedicated to the 
 
 ### Live Site
 
-- Go to live site - [Byzantine Empire](https://flask-app-prj-26927cc0ca85.herokuapp.com/)
+- Go to live site - [Byzantine Empire](https://flask-lpko.onrender.com/)
 
 ## 🚀 How to Run
 
